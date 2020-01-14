@@ -1,0 +1,12 @@
+C:\Users\AHpx\Desktop\repos\awd\bin\Debug\awd.exe.config
+C:\Users\AHpx\Desktop\repos\awd\bin\Debug\awd.exe
+C:\Users\AHpx\Desktop\repos\awd\bin\Debug\awd.pdb
+C:\Users\AHpx\Desktop\repos\awd\bin\Debug\ProcessMGR.dll
+C:\Users\AHpx\Desktop\repos\awd\bin\Debug\ProcessMGR.pdb
+C:\Users\AHpx\Desktop\repos\awd\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\AHpx\Desktop\repos\awd\obj\Debug\awd.Form1.resources
+C:\Users\AHpx\Desktop\repos\awd\obj\Debug\awd.Properties.Resources.resources
+C:\Users\AHpx\Desktop\repos\awd\obj\Debug\Tester.csproj.GenerateResource.cache
+C:\Users\AHpx\Desktop\repos\awd\obj\Debug\Tester.csproj.CopyComplete
+C:\Users\AHpx\Desktop\repos\awd\obj\Debug\awd.exe
+C:\Users\AHpx\Desktop\repos\awd\obj\Debug\awd.pdb
