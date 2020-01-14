@@ -3,7 +3,7 @@
 **Code by [AHpx](http://blog.ahpxarctic.cn/)And OpenSource please follow MIT LICENSE**<br/>
 **Copyright 2017-2020 AHpx allrights reserved.**
 
-[简体中文](http://blog.ahpxarctic.cn/)
+[简体中文](https://github.com/2933170747/AHpx-Process-Manager/blob/master/RAEAME_CN.md)
 
 ## Describtion
 
