@@ -1,6 +1,6 @@
 # AHpx-Process-Manager
 
-**Code by [AHpx](http://blog.ahpxarctic.cn/)**<br/>
+**Code by [AHpx](http://blog.ahpxarctic.cn/)And OpenSource please follow MIT LICENSE**<br/>
 **Copyright 2017-2020 AHpx allrights reserved.**
 
 [简体中文](http://blog.ahpxarctic.cn/)
@@ -16,31 +16,31 @@ Function list:
 	<th>Describe</th>
   </tr>
   <tr>
-    <td>Suspend</td>
+    <td>SuspendProcess</td>
 	<td>Suspend a process by its name</td>
   </tr>
   <tr>
-    <td>Resume</td>
+    <td>ResumeProcess</td>
   	<td>Resume a process by its name after suspended</td>
   </tr>
   <tr>
-    <td>Kill</td>
+    <td>KillProcess</td>
   	<td>Kill a process by its name</td>
   </tr>
   <tr>
-    <td>Start</td>
+    <td>StartProcess</td>
   	<td>Start a process by its path("C:\X\x\xx\xx.exe")</td>
   </tr>
   <tr>
-    <td>Change</td>
+    <td>ChangeWindow</td>
   	<td>Change a window by its process name</td>
   </tr>
   <tr>
-    <td>ProcessExist</td>
+    <td>IsProcessExist</td>
   	<td>Get process exist state by its process name</td>
   </tr>
   <tr>
-    <td>WindowExist</td>
+    <td>IsWindowExist</td>
   	<td>Get window exist state by its title text</td>
   </tr>
 </table>
